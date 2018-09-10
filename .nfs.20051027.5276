@@ -1,0 +1,739 @@
+Script started on Sun Sep  9 17:58:00 2018
+]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_initl[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;..space/my_init]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init
+[0m[27m[24m[J[01;32m➜  [36mmy_init[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 2819
+drwxr-xr-x   6 rowong  2018_january   4.0K Sep  9 17:58 [1m[36m.[39;49m[0m
+drwxr-xr-x@ 12 rowong  2018_january   4.0K Sep  9 16:53 [1m[36m..[39;49m[0m
+-rw-r--r--   1 rowong  2018_january   4.0K Sep  9 16:54 ._init.en.pdf
+drwxr-xr-x   6 rowong  2018_january   4.0K Sep  9 17:58 [1m[36m.git[39;49m[0m
+-rw-r--r--   1 rowong  2018_january     6B Sep  9 16:56 .gitignore
+-rw-r--r--   1 rowong  2018_january     0B Sep  9 17:21 9
+-rw-r--r--@  1 rowong  2018_january   1.3M Sep  9 16:53 init.en.pdf
+-rwxr-xr-x   1 rowong  2018_january   140B Sep  9 17:57 [31mmy_script.sh[39;49m[0m
+drwxr-xr-x   2 rowong  2018_january   4.0K Sep  9 17:57 [1m[36mnetwork[39;49m[0m
+drwxr-xr-x   2 rowong  2018_january   4.0K Sep  9 16:57 [1m[36mscripts[39;49m[0m
+drwxr-xr-x   2 rowong  2018_january   4.0K Sep  9 17:57 [1m[36msystem[39;49m[0m
+-rw-r--r--   1 rowong  2018_january    43B Sep  9 17:58 typescript
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;..space/my_init]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init[0m[27m[24m[J[01;32m➜  [36mmy_init[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hsscr
+[J[0mSCREEN_NO      [JSCRIPT         [Jscreen         [Jscreencapture  [Jscript         [J[1;31mscripts[0m/     [J[A[0m[27m[24m[26Cscr[Ki
+[J[A[30Cpt
+[J[J[0mSCRIPT    [Jscript    [J[1;31mscripts[0m/[J[A[0m[27m[24m[26Cscript[KSCRIPT[1m=[0m
+[J[7mSCRIPT  [0m  [Jscript    [J[1;31mscripts[0m/[J[A[0m[27m[24m[26CSCRIPT[1m=[0m[K
+[7mSCRIPT  [0m  [7mSCRIPT  [0m  [A[0m[27m[24m[26CSCRIPT[1m=[0m[Kscript[0m 
+[10C[7mscript  [0m  SCRIPT    [A[0m[27m[24m[26Cscript[Ks[1m/[0m
+[20C[7mscripts/[0m[10Cscript    [A[0m[27m[24m[26Cscripts[1m/[0m[K
+[J[A[34C[0m [?1l>[?2004l
+[J]2;scripts]1;scripts[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/scripts]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h .. ../my_script.sh[1m [0m[0m [?1l>[?2004l
+]2;. ../my_script.sh]1;.[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/scripts]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 16
+drwxr-xr-x  2 rowong  2018_january   4.0K Sep  9 17:58 [1m[36m.[39;49m[0m
+drwxr-xr-x  6 rowong  2018_january   4.0K Sep  9 17:58 [1m[36m..[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:58 [31m00[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:58 [31m01[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:58 [31m02[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:58 [31m03[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:58 [31m04[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:58 [31m05[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/scripts]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;..space/my_init]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init[0m[27m[24m[J[01;32m➜  [36mmy_init[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 2819
+drwxr-xr-x   6 rowong  2018_january   4.0K Sep  9 17:58 [1m[36m.[39;49m[0m
+drwxr-xr-x@ 12 rowong  2018_january   4.0K Sep  9 16:53 [1m[36m..[39;49m[0m
+-rw-r--r--   1 rowong  2018_january   4.0K Sep  9 16:54 ._init.en.pdf
+drwxr-xr-x   6 rowong  2018_january   4.0K Sep  9 17:58 [1m[36m.git[39;49m[0m
+-rw-r--r--   1 rowong  2018_january     6B Sep  9 16:56 .gitignore
+-rw-r--r--   1 rowong  2018_january     0B Sep  9 17:21 9
+-rw-r--r--@  1 rowong  2018_january   1.3M Sep  9 16:53 init.en.pdf
+-rwxr-xr-x   1 rowong  2018_january   140B Sep  9 17:57 [31mmy_script.sh[39;49m[0m
+drwxr-xr-x   2 rowong  2018_january   4.0K Sep  9 17:57 [1m[36mnetwork[39;49m[0m
+drwxr-xr-x   2 rowong  2018_january   4.0K Sep  9 17:58 [1m[36mscripts[39;49m[0m
+drwxr-xr-x   2 rowong  2018_january   4.0K Sep  9 17:57 [1m[36msystem[39;49m[0m
+-rw-r--r--   1 rowong  2018_january    43B Sep  9 17:58 typescript
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;..space/my_init]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init[0m[27m[24m[J[01;32m➜  [36mmy_init[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hvvim .  v  rrm 9[?1l>[?2004l
+]2;rm 9]1;rm[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;..space/my_init]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init[0m[27m[24m[J[01;32m➜  [36mmy_init[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 2831
+drwxr-xr-x   6 rowong  2018_january   4.0K Sep  9 17:58 [1m[36m.[39;49m[0m
+drwxr-xr-x@ 12 rowong  2018_january   4.0K Sep  9 16:53 [1m[36m..[39;49m[0m
+-rw-r--r--   1 rowong  2018_january   4.0K Sep  9 16:54 ._init.en.pdf
+drwxr-xr-x   6 rowong  2018_january   4.0K Sep  9 17:58 [1m[36m.git[39;49m[0m
+-rw-r--r--   1 rowong  2018_january     6B Sep  9 16:56 .gitignore
+-rw-r--r--@  1 rowong  2018_january   1.3M Sep  9 16:53 init.en.pdf
+-rwxr-xr-x   1 rowong  2018_january   140B Sep  9 17:57 [31mmy_script.sh[39;49m[0m
+drwxr-xr-x   2 rowong  2018_january   4.0K Sep  9 17:57 [1m[36mnetwork[39;49m[0m
+drwxr-xr-x   2 rowong  2018_january   4.0K Sep  9 17:58 [1m[36mscripts[39;49m[0m
+drwxr-xr-x   2 rowong  2018_january   4.0K Sep  9 17:57 [1m[36msystem[39;49m[0m
+-rw-r--r--   1 rowong  2018_january   6.1K Sep  9 17:58 typescript
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;..space/my_init]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init[0m[27m[24m[J[01;32m➜  [36mmy_init[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrrm typescript[1m [0m[0m [?1l>[?2004l
+]2;rm typescript]1;rm[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;..space/my_init]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init[0m[27m[24m[J[01;32m➜  [36mmy_init[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hllsl  vvim  v  lls[?1l>[?2004l
+]2;ls -G]1;lsinit.en.pdf  [31mmy_script.sh[39;49m[0m [1m[36mnetwork[39;49m[0m      [1m[36mscripts[39;49m[0m      [1m[36msystem[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;..space/my_init]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init[0m[27m[24m[J[01;32m➜  [36mmy_init[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hnnetwork[?1l>[?2004l
+]2;network]1;network[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[31m00[39;49m[0m [31m01[39;49m[0m [31m02[39;49m[0m [31m03[39;49m[0m [31m04[39;49m[0m [31m05[39;49m[0m [31m06[39;49m[0m [31m07[39;49m[0m [31m08[39;49m[0m [31m09[39;49m[0m [31m10[39;49m[0m [31m11[39;49m[0m [31m12[39;49m[0m [31m13[39;49m[0m [31m14[39;49m[0m [31m15[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hvvim 00 1    v  rrm 00[?1l>[?2004l
+]2;rm 00]1;rm[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hvvim 01[1m [0m[0m -v c' :   ':stdHeader'[?1l>[?2004l
+]2;vim 01 -c ':stdHeader']1;vim[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"01" 0L, 0C
+[97m[41mError detected while processing command line:[m
+[97m[41mE492: Not an editor command: :stdHeader[2;1H▽[6n[2;1H  [1;1H[>c]11;?[m
+[32mPress ENTER or type command to continue[?12l[?25h[m[1;1H[3L[?25l[1;1H[38;5;130m  1 [m
+[94m~                                                                                                                                [3;1H~                                                                                                                                [4;1H~                                                                                                                                [5;1H~                                                                                                                                [6;1H~                                                                                                                                [7;1H~                                                                                                                                [8;1H~                                                                                                                                [9;1H~                                                                                                                                [10;1H~                                                                                                                                [11;1H~                                                                                                                                [12;1H~                                                                                                                                [13;1H~                                                                                                                                [14;1H~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [24;1H~                                                                                                                                [25;1H~                                                                                                                                [26;1H~                                                                                                                                [27;1H~                                                                                                                                [28;1H~                                                                                                                                [29;1H~                                                                                                                                [30;1H~                                                                                                                                [31;1H~                                                                                                                                [32;1H~                                                                                                                                [33;1H~                                                                                                                                [34;1H~                                                                                                                                [35;1H~                                                                                                                                [36;1H~                                                                                                                                [37;1H~                                                                                                                                [38;1H~                                                                                                                                [39;1H~                                                                                                                                [40;1H~                                                                                                                                [41;1H~                                                                                                                                [m[42;1H[1m[7m01                                                                                                                               [m[43;1H[K[1;5H[?12l[?25h[?25l[43;1H:[?2004h[?12l[?25hq[?25l[?2004l[43;1H[K[43;1H[?2004l[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hvim 01 -c ':stdHeader'[9D[P[10C [11D[?1l>[?2004l
+]2;vim 01 -c 'stdHeader']1;vim[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"01" 0L, 0C
+[97m[41mError detected while processing command line:[m
+[97m[41mE492: Not an editor command: stdHeader[2;1H▽[6n[2;1H  [1;1H[>c]11;?[m
+[32mPress ENTER or type command to continue[?12l[?25h[m[1;1H[3L[?25l[1;1H[38;5;130m  1 [m
+[94m~                                                                                                                                [3;1H~                                                                                                                                [4;1H~                                                                                                                                [5;1H~                                                                                                                                [6;1H~                                                                                                                                [7;1H~                                                                                                                                [8;1H~                                                                                                                                [9;1H~                                                                                                                                [10;1H~                                                                                                                                [11;1H~                                                                                                                                [12;1H~                                                                                                                                [13;1H~                                                                                                                                [14;1H~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [24;1H~                                                                                                                                [25;1H~                                                                                                                                [26;1H~                                                                                                                                [27;1H~                                                                                                                                [28;1H~                                                                                                                                [29;1H~                                                                                                                                [30;1H~                                                                                                                                [31;1H~                                                                                                                                [32;1H~                                                                                                                                [33;1H~                                                                                                                                [34;1H~                                                                                                                                [35;1H~                                                                                                                                [36;1H~                                                                                                                                [37;1H~                                                                                                                                [38;1H~                                                                                                                                [39;1H~                                                                                                                                [40;1H~                                                                                                                                [41;1H~                                                                                                                                [m[42;1H[1m[7m01                                                                                                                               [m[43;1H[K[1;5H[?12l[?25h[?25l[43;1H:[?2004h[?12l[?25hs...[?25l:Sexplore[?12l[?25h[?25l[43;9H[K[43;9H[?12l[?25h[?25l[43;2H[K[43;2H[?12l[?25hst...[?25l:Stdheader[?12l[?25hw:q[?25l[43;1H[K[1;5H[?12l[?25h[?25l[43;1H:[?2004h[?12l[?25hq[?25l[?2004l[43;1H[K[43;1H[?2004l[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hvim 01 -c 'stdHeader'[10D          [10DStdheader'[?1l>[?2004l
+]2;vim 01 -c 'Stdheader']1;vim[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"01" 0L, 0C[2;1H▽[6n[2;1H  [1;1H[>c]11;?[1;1H[38;5;130m  1 [m# **************************************************************************** #
+[38;5;130m  2 [m#[78C#
+[38;5;130m  3 [m#[57C:::      ::::::::    #
+[38;5;130m  4 [m#    01[49C:+:      :+:    :+:    #
+[38;5;130m  5 [m#[53C+:+ +:+[9C+:+      #
+[38;5;130m  6 [m#    By: [48;5;224mrowong[m <[48;5;224mmarvin[m@42.fr>[22C+#+  +:+[7C+#+[9C#
+[38;5;130m  7 [m#[49C+#+#+#+#+#+   +#+[12C#
+[38;5;130m  8 [m#    Created: 2018/09/09 18:24:24 by [48;5;224mrowong[m[12C#+#    #+#[14C#
+[38;5;130m  9 [m#    Updated: 2018/09/09 18:24:24 by [48;5;224mrowong[m[11C###   ########.fr[8C#
+[38;5;130m 10 [m#[78C#
+[38;5;130m 11 [m# **************************************************************************** #
+[38;5;130m 12 
+ 13 [m
+[94m~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [24;1H~                                                                                                                                [25;1H~                                                                                                                                [26;1H~                                                                                                                                [27;1H~                                                                                                                                [28;1H~                                                                                                                                [29;1H~                                                                                                                                [30;1H~                                                                                                                                [31;1H~                                                                                                                                [32;1H~                                                                                                                                [33;1H~                                                                                                                                [34;1H~                                                                                                                                [35;1H~                                                                                                                                [36;1H~                                                                                                                                [37;1H~                                                                                                                                [38;1H~                                                                                                                                [39;1H~                                                                                                                                [40;1H~                                                                                                                                [41;1H~                                                                                                                                [m[42;1H[1m[7m01 [+]                                                                                                                           [13;5H[?12l[?25h[?25l[m[43;1H[K[43;1H:[?2004h[?12l[?25hq[?25l[97m[41mE37: No write since last change[m
+[97m[41mE162: No write since last change for buffer "01"[?2004h[m
+[32mPress ENTER or type command to continue[?12l[?25h[?25l[m[43;1H[K[43;1H:[?2004h[?12l[?25hq![?25l[?2004l[43;1H[K[43;1H[?2004l[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hvim 01 -c 'Stdheader' 'wq'[?1l>[?2004l
+]2;vim 01 -c 'Stdheader' 'wq']1;vim2 files to edit
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"01" 0L, 0C[2;1H▽[6n[2;1H  [1;1H[>c]11;?[1;1H[38;5;130m  1 [m# **************************************************************************** #
+[38;5;130m  2 [m#[78C#
+[38;5;130m  3 [m#[57C:::      ::::::::    #
+[38;5;130m  4 [m#    01[49C:+:      :+:    :+:    #
+[38;5;130m  5 [m#[53C+:+ +:+[9C+:+      #
+[38;5;130m  6 [m#    By: [48;5;224mrowong[m <[48;5;224mmarvin[m@42.fr>[22C+#+  +:+[7C+#+[9C#
+[38;5;130m  7 [m#[49C+#+#+#+#+#+   +#+[12C#
+[38;5;130m  8 [m#    Created: 2018/09/09 18:24:38 by [48;5;224mrowong[m[12C#+#    #+#[14C#
+[38;5;130m  9 [m#    Updated: 2018/09/09 18:24:38 by [48;5;224mrowong[m[11C###   ########.fr[8C#
+[38;5;130m 10 [m#[78C#
+[38;5;130m 11 [m# **************************************************************************** #
+[38;5;130m 12 
+ 13 [m
+[94m~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [24;1H~                                                                                                                                [25;1H~                                                                                                                                [26;1H~                                                                                                                                [27;1H~                                                                                                                                [28;1H~                                                                                                                                [29;1H~                                                                                                                                [30;1H~                                                                                                                                [31;1H~                                                                                                                                [32;1H~                                                                                                                                [33;1H~                                                                                                                                [34;1H~                                                                                                                                [35;1H~                                                                                                                                [36;1H~                                                                                                                                [37;1H~                                                                                                                                [38;1H~                                                                                                                                [39;1H~                                                                                                                                [40;1H~                                                                                                                                [41;1H~                                                                                                                                [m[42;1H[1m[7m01 [+]                                                                                                                           [13;5H[?12l[?25h[12;5H[?25l[m[43;1H[K[43;1H:[?2004h[?12l[?25hq[?25l[97m[41mE173: 1 more file to edit[?2004h[12;5H[?12l[?25h[?25l[m[43;1H[K[43;1H:[?2004h[?12l[?25hq![?25l[?2004l[43;1H[K[43;1H[?2004l[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hvim 01 -c 'Stdheader' 'wq'[1C 'wq'- 'wq'c 'wq'[?1l>[?2004l
+]2;vim 01 -c 'Stdheader' -c 'wq']1;vim[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"01" 0L, 0C[?2004l
+"01" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h;;s;  lls[?1l>[?2004l
+]2;ls -G]1;ls[31m01[39;49m[0m [31m02[39;49m[0m [31m03[39;49m[0m [31m04[39;49m[0m [31m05[39;49m[0m [31m06[39;49m[0m [31m07[39;49m[0m [31m08[39;49m[0m [31m09[39;49m[0m [31m10[39;49m[0m [31m11[39;49m[0m [31m12[39;49m[0m [31m13[39;49m[0m [31m14[39;49m[0m [31m15[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hvvim 01[?1l>[?2004l
+]2;vim 01]1;vim[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"01" 13L, 893C[2;1H▽[6n[2;1H  [1;1H[>c]11;?[1;1H[38;5;130m  1 [m[34m# **************************************************************************** #[m
+[38;5;130m  2 [m[34m#                                                                              #[m
+[38;5;130m  3 [m[34m#                                                         :::      ::::::::    #[m
+[38;5;130m  4 [m[34m#    01                                                 :+:      :+:    :+:    #[m
+[38;5;130m  5 [m[34m#                                                     +:+ +:+         +:+      #[m
+[38;5;130m  6 [m[34m#    By: [m[34m[48;5;224mrowong[m[34m <[m[34m[48;5;224mmarvin[m[34m@42.fr>                      +#+  +:+       +#+         #[m
+[38;5;130m  7 [m[34m#                                                 +#+#+#+#+#+   +#+            #[m
+[38;5;130m  8 [m[34m#    Created: 2018/09/09 18:24:48 by [m[34m[48;5;224mrowong[m[34m            #+#    #+#              #[m
+[38;5;130m  9 [m[34m#    Updated: 2018/09/09 18:24:48 by [m[34m[48;5;224mrowong[m[34m           ###   ########.fr        #[m
+[38;5;130m 10 [m[34m#                                                                              #[m
+[38;5;130m 11 [m[34m# **************************************************************************** #[m
+[38;5;130m 12 
+ 13 [m
+[94m~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [24;1H~                                                                                                                                [25;1H~                                                                                                                                [26;1H~                                                                                                                                [27;1H~                                                                                                                                [28;1H~                                                                                                                                [29;1H~                                                                                                                                [30;1H~                                                                                                                                [31;1H~                                                                                                                                [32;1H~                                                                                                                                [33;1H~                                                                                                                                [34;1H~                                                                                                                                [35;1H~                                                                                                                                [36;1H~                                                                                                                                [37;1H~                                                                                                                                [38;1H~                                                                                                                                [39;1H~                                                                                                                                [40;1H~                                                                                                                                [41;1H~                                                                                                                                [m[42;1H[1m[7m01                                                                                                                               [1;5H[?12l[?25h[?25l[m[43;1H[K[43;1H:[?2004h[?12l[?25h [1;5H[?25l[43;1H[1m-- VISUAL --[1;5H[?12l[?25h[?25l[m[34m[47m# **************************************************************************** #[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[m[47m [m[2;5H[34m[47m#                                                                              #[?12l[?25h[?25l[m[47m [m[3;5H[34m[47m#                                                         :::      ::::::::    #[?12l[?25h[?25l[m[47m [m[4;5H[34m[47m#    01                                                 :+:      :+:    :+:    #[?12l[?25h[?25l[m[47m [m[5;5H[34m[47m#                                                     +:+ +:+         +:+      #[?12l[?25h[?25l[m[47m [m[6;5H[34m[47m#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #[?12l[?25h[?25l[m[47m [m[7;5H[34m[47m#                                                 +#+#+#+#+#+   +#+            #[?12l[?25h[?25l[m[47m [m[8;5H[34m[47m#    Created: 2018/09/09 18:24:48 by rowong            #+#    #+#              #[?12l[?25h[?25l[m[47m [m[9;5H[34m[47m#    Updated: 2018/09/09 18:24:48 by rowong           ###   ########.fr        #[?12l[?25h[?25l[m[47m [m[10;5H[34m[47m#                                                                              #[?12l[?25h[?25l[m[47m [m[11;5H[34m[47m# **************************************************************************** #[?12l[?25h[?25l[m[47m [12;5H[?12l[?25h[?25l [13;5H[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[m[43;1H12 fewer lines[1;5H[K[2;1H[94m~                                                                                                                                [3;1H~                                                                                                                                [4;1H~                                                                                                                                [5;1H~                                                                                                                                [6;1H~                                                                                                                                [7;1H~                                                                                                                                [8;1H~                                                                                                                                [9;1H~                                                                                                                                [10;1H~                                                                                                                                [11;1H~                                                                                                                                [12;1H~                                                                                                                                [13;1H~                                                                                                                                [m[42;4H[1m[7m[+][1;5H[?12l[?25h[?25l[m[43;1HType  :qa!  and press <Enter> to abandon all changes and exit Vim[1;5H[?12l[?25h[?25l[43;1H[K[43;1H:[?2004h[?12l[?25hwq[?25l[?2004l"01" 1L, 1C written
+[?2004l[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[31m01[39;49m[0m [31m02[39;49m[0m [31m03[39;49m[0m [31m04[39;49m[0m [31m05[39;49m[0m [31m06[39;49m[0m [31m07[39;49m[0m [31m08[39;49m[0m [31m09[39;49m[0m [31m10[39;49m[0m [31m11[39;49m[0m [31m12[39;49m[0m [31m13[39;49m[0m [31m14[39;49m[0m [31m15[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;..space/my_init]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init[0m[27m[24m[J[01;32m➜  [36mmy_init[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004httouch std_scro[t   ipt.sh[?1l>[?2004l
+]2;touch std_script.sh]1;touch[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;..space/my_init]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init[0m[27m[24m[J[01;32m➜  [36mmy_init[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsinit.en.pdf   [31mmy_script.sh[39;49m[0m  [1m[36mnetwork[39;49m[0m       [1m[36mscripts[39;49m[0m       std_script.sh [1m[36msystem[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;..space/my_init]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init[0m[27m[24m[J[01;32m➜  [36mmy_init[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd network[1m/[0m[0m [?1l>[?2004l
+]2;cd network]1;cd[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;ls[31m01[39;49m[0m [31m02[39;49m[0m [31m03[39;49m[0m [31m04[39;49m[0m [31m05[39;49m[0m [31m06[39;49m[0m [31m07[39;49m[0m [31m08[39;49m[0m [31m09[39;49m[0m [31m10[39;49m[0m [31m11[39;49m[0m [31m12[39;49m[0m [31m13[39;49m[0m [31m14[39;49m[0m [31m15[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h../ ..  .  .. ../s
+[J[1;31mscripts[0m/       [Jstd_script.sh  [J[1;31msystem[0m/      [J[A[0m[27m[24m[26C. ../s[Ktd_script.sh[1m [0m[0m [?1l>[?2004l
+[J]2;. ../std_script.sh]1;.[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H[97m[41mError detected while processing command line:[m
+[97m[41mE32: No file name[?2004h[2;1H▽[6n[2;1H  [1;1H[>c]11;?[m
+[32mPress ENTER or type command to continue[?12l[?25h[m[1;1H[2L[?25l[1;1H[38;5;130m  1 [m# **************************************************************************** #
+[38;5;130m  2 [m#[78C#
+[38;5;130m  3 [m#[57C:::      ::::::::    #
+[38;5;130m  4 [m#[55C:+:      :+:    :+:    #
+[38;5;130m  5 [m#[53C+:+ +:+[9C+:+      #
+[38;5;130m  6 [m#    By: [48;5;224mrowong[m <[48;5;224mmarvin[m@42.fr>[22C+#+  +:+[7C+#+[9C#
+[38;5;130m  7 [m#[49C+#+#+#+#+#+   +#+[12C#
+[38;5;130m  8 [m#    Created: 2018/09/09 18:29:10 by [48;5;224mrowong[m[12C#+#    #+#[14C#
+[38;5;130m  9 [m#    Updated: 2018/09/09 18:29:10 by [48;5;224mrowong[m[11C###   ########.fr[8C#
+[38;5;130m 10 [m#[78C#
+[38;5;130m 11 [m# **************************************************************************** #
+[38;5;130m 12 
+ 13 [m
+[94m~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [24;1H~                                                                                                                                [25;1H~                                                                                                                                [26;1H~                                                                                                                                [27;1H~                                                                                                                                [28;1H~                                                                                                                                [29;1H~                                                                                                                                [30;1H~                                                                                                                                [31;1H~                                                                                                                                [32;1H~                                                                                                                                [33;1H~                                                                                                                                [34;1H~                                                                                                                                [35;1H~                                                                                                                                [36;1H~                                                                                                                                [37;1H~                                                                                                                                [38;1H~                                                                                                                                [39;1H~                                                                                                                                [40;1H~                                                                                                                                [41;1H~                                                                                                                                [m[42;1H[1m[7m[No Name] [+]                                                                                                                    [m[43;1H[K[13;5H[?12l[?25h[?25l[43;1H:[?2004h[?12l[?25hq[?25l[97m[41mE37: No write since last change[m
+[97m[41mE162: No write since last change for buffer "[No Name]"[?2004h[m
+[32mPress ENTER or type command to continue[?12l[?25h[m[1;1H[2L[?25l[1;1H[38;5;130m  1 [m# **************************************************************************** #
+[38;5;130m  2 [m#[78C#[43;1H[K[13;5H[?12l[?25h[?25l[43;1H:[?2004h[?12l[?25hq[?25l[97m[41mE37: No write since last change[m
+[97m[41mE162: No write since last change for buffer "[No Name]"[?2004h[m
+[32mPress ENTER or type command to continue[?12l[?25h[?25l[m[43;1H[K[43;1H:[?2004h[?12l[?25h:[?25l[43;2H[K[43;2H[?12l[?25hQ1[?25l[43;3H[K[43;3H[?12l[?25h[?25l[43;2H[K[43;2H[?12l[?25hq![?25l[?2004l[43;1H[K[43;1H[?2004l[?1l>[?12l[?25h[?1049l[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H[97m[41mError detected while processing command line:[m
+[97m[41mE32: No file name[?2004h[2;1H▽[6n[2;1H  [1;1H[>c]11;?[m
+[32mPress ENTER or type command to continue[?12l[?25h[?25l[m[43;1H[K[43;1H:[?2004h[?12l[?25hQ[?25l[43;2H[K[43;2H[?12l[?25hq[?25l[43;1H[K[1;1H[2L[1;1H[38;5;130m  1 [m# **************************************************************************** #
+[38;5;130m  2 [m#[78C#
+[38;5;130m  3 [m#[57C:::      ::::::::    #
+[38;5;130m  4 [m#[55C:+:      :+:    :+:    #
+[38;5;130m  5 [m#[53C+:+ +:+[9C+:+      #
+[38;5;130m  6 [m#    By: [48;5;224mrowong[m <[48;5;224mmarvin[m@42.fr>[22C+#+  +:+[7C+#+[9C#
+[38;5;130m  7 [m#[49C+#+#+#+#+#+   +#+[12C#
+[38;5;130m  8 [m#    Created: 2018/09/09 18:29:25 by [48;5;224mrowong[m[12C#+#    #+#[14C#
+[38;5;130m  9 [m#    Updated: 2018/09/09 18:29:25 by [48;5;224mrowong[m[11C###   ########.fr[8C#
+[38;5;130m 10 [m#[78C#
+[38;5;130m 11 [m# **************************************************************************** #
+[38;5;130m 12 
+ 13 [m
+[94m~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [24;1H~                                                                                                                                [25;1H~                                                                                                                                [26;1H~                                                                                                                                [27;1H~                                                                                                                                [28;1H~                                                                                                                                [29;1H~                                                                                                                                [30;1H~                                                                                                                                [31;1H~                                                                                                                                [32;1H~                                                                                                                                [33;1H~                                                                                                                                [34;1H~                                                                                                                                [35;1H~                                                                                                                                [36;1H~                                                                                                                                [37;1H~                                                                                                                                [38;1H~                                                                                                                                [39;1H~                                                                                                                                [40;1H~                                                                                                                                [41;1H~                                                                                                                                [m[42;1H[1m[7m[No Name] [+]                                                                                                                    [m[43;1H[K[13;5H[?12l[?25h[?25l[43;1HType  :qa!  and press <Enter> to abandon all changes and exit Vim[13;5H[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[?25l[?12l[?25h[43;1H
+[?2004l[?1l>[?1049l[?2004l
+[3]  + 244 suspended  
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H[97m[41mError detected while processing command line:[m
+[97m[41mE32: No file name[?2004h[2;1H▽[6n[2;1H  [1;1H[>c]11;?[m
+[32mPress ENTER or type command to continue[m[1;1H[2L[1;1H[38;5;130m  1 [m# **************************************************************************** #
+[38;5;130m  2 [m#[78C#
+[38;5;130m  3 [m#[57C:::      ::::::::    #
+[38;5;130m  4 [m#[55C:+:      :+:    :+:    #
+[38;5;130m  5 [m#[53C+:+ +:+[9C+:+      #
+[38;5;130m  6 [m#    By: [48;5;224mrowong[m <[48;5;224mmarvin[m@42.fr>[22C+#+  +:+[7C+#+[9C#
+[38;5;130m  7 [m#[49C+#+#+#+#+#+   +#+[12C#
+[38;5;130m  8 [m#    Created: 2018/09/09 18:29:33 by [48;5;224mrowong[m[12C#+#    #+#[14C#
+[38;5;130m  9 [m#    Updated: 2018/09/09 18:29:33 by [48;5;224mrowong[m[11C###   ########.fr[8C#
+[38;5;130m 10 [m#[78C#
+[38;5;130m 11 [m# **************************************************************************** #
+[38;5;130m 12 
+ 13 [m
+[94m~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [24;1H~                                                                                                                                [25;1H~                                                                                                                                [26;1H~                                                                                                                                [27;1H~                                                                                                                                [28;1H~                                                                                                                                [29;1H~                                                                                                                                [30;1H~                                                                                                                                [31;1H~                                                                                                                                [32;1H~                                                                                                                                [33;1H~                                                                                                                                [34;1H~                                                                                                                                [35;1H~                                                                                                                                [36;1H~                                                                                                                                [37;1H~                                                                                                                                [38;1H~                                                                                                                                [39;1H~                                                                                                                                [40;1H~                                                                                                                                [41;1H~                                                                                                                                [m[42;1H[1m[7m[No Name] [+]                                                                                                                    [m[43;1H[K[13;5H[?12l[?25h[43;1H
+[?2004l[?1l>[?1049l[?2004l
+[4]  + 1968 suspended  
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H[97m[41mError detected while processing command line:[m
+[97m[41mE32: No file name[?2004h[2;1H▽[6n[2;1H  [1;1H[>c]11;?[m
+[32mPress ENTER or type command to continue[?12l[?25h[m[1;1H[2L[?25l[1;1H[38;5;130m  1 [m# **************************************************************************** #
+[38;5;130m  2 [m#[78C#
+[38;5;130m  3 [m#[57C:::      ::::::::    #
+[38;5;130m  4 [m#[55C:+:      :+:    :+:    #
+[38;5;130m  5 [m#[53C+:+ +:+[9C+:+      #
+[38;5;130m  6 [m#    By: [48;5;224mrowong[m <[48;5;224mmarvin[m@42.fr>[22C+#+  +:+[7C+#+[9C#
+[38;5;130m  7 [m#[49C+#+#+#+#+#+   +#+[12C#
+[38;5;130m  8 [m#    Created: 2018/09/09 18:29:33 by [48;5;224mrowong[m[12C#+#    #+#[14C#
+[38;5;130m  9 [m#    Updated: 2018/09/09 18:29:33 by [48;5;224mrowong[m[11C###   ########.fr[8C#
+[38;5;130m 10 [m#[78C#
+[38;5;130m 11 [m# **************************************************************************** #
+[38;5;130m 12 
+ 13 [m
+[94m~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [24;1H~                                                                                                                                [25;1H~                                                                                                                                [26;1H~                                                                                                                                [27;1H~                                                                                                                                [28;1H~                                                                                                                                [29;1H~                                                                                                                                [30;1H~                                                                                                                                [31;1H~                                                                                                                                [32;1H~                                                                                                                                [33;1H~                                                                                                                                [34;1H~                                                                                                                                [35;1H~                                                                                                                                [36;1H~                                                                                                                                [37;1H~                                                                                                                                [38;1H~                                                                                                                                [39;1H~                                                                                                                                [40;1H~                                                                                                                                [41;1H~                                                                                                                                [m[42;1H[1m[7m[No Name] [+]                                                                                                                    [m[43;1H[K[13;5H[?12l[?25h[43;1H
+[?2004l[?1l>[?1049l[?2004l
+[5]  + 1995 suspended  
+^Z
+[6]  + 2172 suspended  
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H[97m[41mError detected while processing command line:[m
+[97m[41mE32: No file name[?2004h[2;1H▽[6n[2;1H  [1;1H[>c]11;?[m
+[32mPress ENTER or type command to continue[?12l[?25h[m[1;1H[2L[?25l[1;1H[38;5;130m  1 [m# **************************************************************************** #
+[38;5;130m  2 [m#[78C#
+[38;5;130m  3 [m#[57C:::      ::::::::    #
+[38;5;130m  4 [m#[55C:+:      :+:    :+:    #
+[38;5;130m  5 [m#[53C+:+ +:+[9C+:+      #
+[38;5;130m  6 [m#    By: [48;5;224mrowong[m <[48;5;224mmarvin[m@42.fr>[22C+#+  +:+[7C+#+[9C#
+[38;5;130m  7 [m#[49C+#+#+#+#+#+   +#+[12C#
+[38;5;130m  8 [m#    Created: 2018/09/09 18:29:34 by [48;5;224mrowong[m[12C#+#    #+#[14C#
+[38;5;130m  9 [m#    Updated: 2018/09/09 18:29:34 by [48;5;224mrowong[m[11C###   ########.fr[8C#
+[38;5;130m 10 [m#[78C#
+[38;5;130m 11 [m# **************************************************************************** #
+[38;5;130m 12 
+ 13 [m
+[94m~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [24;1H~                                                                                                                                [25;1H~                                                                                                                                [26;1H~                                                                                                                                [27;1H~                                                                                                                                [28;1H~                                                                                                                                [29;1H~                                                                                                                                [30;1H~                                                                                                                                [31;1H~                                                                                                                                [32;1H~                                                                                                                                [33;1H~                                                                                                                                [34;1H~                                                                                                                                [35;1H~                                                                                                                                [36;1H~                                                                                                                                [37;1H~                                                                                                                                [38;1H~                                                                                                                                [39;1H~                                                                                                                                [40;1H~                                                                                                                                [41;1H~                                                                                                                                [m[42;1H[1m[7m[No Name] [+]                                                                                                                    [m[43;1H[K[13;5H[?12l[?25h[43;1H
+[?2004l[?1l>[?1049l[?2004l
+[7]  + 2183 suspended  
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H[97m[41mError detected while processing command line:[m
+[97m[41mE32: No file name[?2004h[2;1H▽[6n[2;1H  [1;1H[>c]11;?[m
+[32mPress ENTER or type command to continue[?12l[?25h[m[1;1H[2L[?25l[1;1H[38;5;130m  1 [m# **************************************************************************** #
+[38;5;130m  2 [m#[78C#
+[38;5;130m  3 [m#[57C:::      ::::::::    #
+[38;5;130m  4 [m#[55C:+:      :+:    :+:    #
+[38;5;130m  5 [m#[53C+:+ +:+[9C+:+      #
+[38;5;130m  6 [m#    By: [48;5;224mrowong[m <[48;5;224mmarvin[m@42.fr>[22C+#+  +:+[7C+#+[9C#
+[38;5;130m  7 [m#[49C+#+#+#+#+#+   +#+[12C#
+[38;5;130m  8 [m#    Created: 2018/09/09 18:29:34 by [48;5;224mrowong[m[12C#+#    #+#[14C#
+[38;5;130m  9 [m#    Updated: 2018/09/09 18:29:34 by [48;5;224mrowong[m[11C###   ########.fr[8C#
+[38;5;130m 10 [m#[78C#
+[38;5;130m 11 [m# **************************************************************************** #
+[38;5;130m 12 
+ 13 [m
+[94m~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [24;1H~                                                                                                                                [25;1H~                                                                                                                                [26;1H~                                                                                                                                [27;1H~                                                                                                                                [28;1H~                                                                                                                                [29;1H~                                                                                                                                [30;1H~                                                                                                                                [31;1H~                                                                                                                                [32;1H~                                                                                                                                [33;1H~                                                                                                                                [34;1H~                                                                                                                                [35;1H~                                                                                                                                [36;1H~                                                                                                                                [37;1H~                                                                                                                                [38;1H~                                                                                                                                [39;1H~                                                                                                                                [40;1H~                                                                                                                                [41;1H~                                                                                                                                [m[42;1H[1m[7m[No Name] [+]                                                                                                                    [m[43;1H[K[13;5H[?12l[?25h[43;1H
+[?2004l[?1l>[?1049l[?2004l
+[8]  + 2251 suspended  
+^Z
+[9]  + 2288 suspended  
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H[97m[41mError detected while processing command line:[m
+[97m[41mE32: No file name[?2004h[2;1H▽[6n[2;1H  [1;1H[>c]11;?[m
+[32mPress ENTER or type command to continue[?12l[?25h[m[1;1H[2L[?25l[1;1H[38;5;130m  1 [m# **************************************************************************** #
+[38;5;130m  2 [m#[78C#
+[38;5;130m  3 [m#[57C:::      ::::::::    #
+[38;5;130m  4 [m#[55C:+:      :+:    :+:    #
+[38;5;130m  5 [m#[53C+:+ +:+[9C+:+      #
+[38;5;130m  6 [m#    By: [48;5;224mrowong[m <[48;5;224mmarvin[m@42.fr>[22C+#+  +:+[7C+#+[9C#
+[38;5;130m  7 [m#[49C+#+#+#+#+#+   +#+[12C#
+[38;5;130m  8 [m#    Created: 2018/09/09 18:29:34 by [48;5;224mrowong[m[12C#+#    #+#[14C#
+[38;5;130m  9 [m#    Updated: 2018/09/09 18:29:34 by [48;5;224mrowong[m[11C###   ########.fr[8C#
+[38;5;130m 10 [m#[78C#
+[38;5;130m 11 [m# **************************************************************************** #
+[38;5;130m 12 
+ 13 [m
+[94m~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [24;1H~                                                                                                                                [25;1H~                                                                                                                                [26;1H~                                                                                                                                [27;1H~                                                                                                                                [28;1H~                                                                                                                                [29;1H~                                                                                                                                [30;1H~                                                                                                                                [31;1H~                                                                                                                                [32;1H~                                                                                                                                [33;1H~                                                                                                                                [34;1H~                                                                                                                                [35;1H~                                                                                                                                [36;1H~                                                                                                                                [37;1H~                                                                                                                                [38;1H~                                                                                                                                [39;1H~                                                                                                                                [40;1H~                                                                                                                                [41;1H~                                                                                                                                [m[42;1H[1m[7m[No Name] [+]                                                                                                                    [m[43;1H[K[13;5H[?12l[?25h[43;1H
+[?2004l[?1l>[?1049l[?2004l
+[10]  + 2298 suspended  
+^Z
+[11]  + 2351 suspended  
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H[97m[41mError detected while processing command line:[m
+[97m[41mE32: No file name[?2004h[2;1H▽[6n[2;1H  [1;1H[>c]11;?[m
+[32mPress ENTER or type command to continue[?12l[?25h[m[1;1H[2L[?25l[1;1H[38;5;130m  1 [m# **************************************************************************** #
+[38;5;130m  2 [m#[78C#
+[38;5;130m  3 [m#[57C:::      ::::::::    #
+[38;5;130m  4 [m#[55C:+:      :+:    :+:    #
+[38;5;130m  5 [m#[53C+:+ +:+[9C+:+      #
+[38;5;130m  6 [m#    By: [48;5;224mrowong[m <[48;5;224mmarvin[m@42.fr>[22C+#+  +:+[7C+#+[9C#
+[38;5;130m  7 [m#[49C+#+#+#+#+#+   +#+[12C#
+[38;5;130m  8 [m#    Created: 2018/09/09 18:29:34 by [48;5;224mrowong[m[12C#+#    #+#[14C#
+[38;5;130m  9 [m#    Updated: 2018/09/09 18:29:34 by [48;5;224mrowong[m[11C###   ########.fr[8C#
+[38;5;130m 10 [m#[78C#
+[38;5;130m 11 [m# **************************************************************************** #
+[38;5;130m 12 
+ 13 [m
+[94m~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [24;1H~                                                                                                                                [25;1H~                                                                                                                                [26;1H~                                                                                                                                [27;1H~                                                                                                                                [28;1H~                                                                                                                                [29;1H~                                                                                                                                [30;1H~                                                                                                                                [31;1H~                                                                                                                                [32;1H~                                                                                                                                [33;1H~                                                                                                                                [34;1H~                                                                                                                                [35;1H~                                                                                                                                [36;1H~                                                                                                                                [37;1H~                                                                                                                                [38;1H~                                                                                                                                [39;1H~                                                                                                                                [40;1H~                                                                                                                                [41;1H~                                                                                                                                [m[42;1H[1m[7m[No Name] [+]                                                                                                                    [m[43;1H[K[13;5H[?12l[?25h[43;1H
+[?2004l[?1l>[?1049l[?2004l
+[12]  + 2364 suspended  
+^Z
+[13]  + 2416 suspended  
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H[97m[41mError detected while processing command line:[m
+[97m[41mE32: No file name[?2004h[2;1H▽[6n[2;1H  [1;1H[>c]11;?[m
+[32mPress ENTER or type command to continue[?12l[?25h[m[1;1H[2L[?25l[1;1H[38;5;130m  1 [m# **************************************************************************** #
+[38;5;130m  2 [m#[78C#
+[38;5;130m  3 [m#[57C:::      ::::::::    #
+[38;5;130m  4 [m#[55C:+:      :+:    :+:    #
+[38;5;130m  5 [m#[53C+:+ +:+[9C+:+      #
+[38;5;130m  6 [m#    By: [48;5;224mrowong[m <[48;5;224mmarvin[m@42.fr>[22C+#+  +:+[7C+#+[9C#
+[38;5;130m  7 [m#[49C+#+#+#+#+#+   +#+[12C#
+[38;5;130m  8 [m#    Created: 2018/09/09 18:29:35 by [48;5;224mrowong[m[12C#+#    #+#[14C#
+[38;5;130m  9 [m#    Updated: 2018/09/09 18:29:35 by [48;5;224mrowong[m[11C###   ########.fr[8C#
+[38;5;130m 10 [m#[78C#
+[38;5;130m 11 [m# **************************************************************************** #
+[38;5;130m 12 
+ 13 [m
+[94m~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [24;1H~                                                                                                                                [25;1H~                                                                                                                                [26;1H~                                                                                                                                [27;1H~                                                                                                                                [28;1H~                                                                                                                                [29;1H~                                                                                                                                [30;1H~                                                                                                                                [31;1H~                                                                                                                                [32;1H~                                                                                                                                [33;1H~                                                                                                                                [34;1H~                                                                                                                                [35;1H~                                                                                                                                [36;1H~                                                                                                                                [37;1H~                                                                                                                                [38;1H~                                                                                                                                [39;1H~                                                                                                                                [40;1H~                                                                                                                                [41;1H~                                                                                                                                [m[42;1H[1m[7m[No Name] [+]                                                                                                                    [m[43;1H[K[13;5H[?12l[?25h[43;1H
+[?2004l[?1l>[?1049l[?2004l
+[14]  + 2432 suspended  
+^Z
+[15]  + 2493 suspended  
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H[97m[41mError detected while processing command line:[m
+[97m[41mE32: No file name[?2004h[2;1H▽[6n[2;1H  [1;1H[>c]11;?[m
+[32mPress ENTER or type command to continue[?12l[?25h[m[1;1H[2L[?25l[1;1H[38;5;130m  1 [m# **************************************************************************** #
+[38;5;130m  2 [m#[78C#
+[38;5;130m  3 [m#[57C:::      ::::::::    #
+[38;5;130m  4 [m#[55C:+:      :+:    :+:    #
+[38;5;130m  5 [m#[53C+:+ +:+[9C+:+      #
+[38;5;130m  6 [m#    By: [48;5;224mrowong[m <[48;5;224mmarvin[m@42.fr>[22C+#+  +:+[7C+#+[9C#
+[38;5;130m  7 [m#[49C+#+#+#+#+#+   +#+[12C#
+[38;5;130m  8 [m#    Created: 2018/09/09 18:29:35 by [48;5;224mrowong[m[12C#+#    #+#[14C#
+[38;5;130m  9 [m#    Updated: 2018/09/09 18:29:35 by [48;5;224mrowong[m[11C###   ########.fr[8C#
+[38;5;130m 10 [m#[78C#
+[38;5;130m 11 [m# **************************************************************************** #
+[38;5;130m 12 
+ 13 [m
+[94m~                                                                                                                                [15;1H~                                                                                                                                [16;1H~                                                                                                                                [17;1H~                                                                                                                                [18;1H~                                                                                                                                [19;1H~                                                                                                                                [20;1H~                                                                                                                                [21;1H~                                                                                                                                [22;1H~                                                                                                                                [23;1H~                                                                                                                                [24;1H~                                                                                                                                [25;1H~                                                                                                                                [26;1H~                                                                                                                                [27;1H~                                                                                                                                [28;1H~                                                                                                                                [29;1H~                                                                                                                                [30;1H~                                                                                                                                [31;1H~                                                                                                                                [32;1H~                                                                                                                                [33;1H~                                                                                                                                [34;1H~                                                                                                                                [35;1H~                                                                                                                                [36;1H~                                                                                                                                [37;1H~                                                                                                                                [38;1H~                                                                                                                                [39;1H~                                                                                                                                [40;1H~                                                                                                                                [41;1H~                                                                                                                                [m[42;1H[1m[7m[No Name] [+]                                                                                                                    [m[43;1H[K[13;5H[?12l[?25h[43;1H
+[?2004l[?1l>[?1049l[?2004l
+[16]  + 2507 suspended  
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network^Z[0m[27m[24m[J[01;31m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h;[?1l>[?2004l
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;31m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 89
+drwxr-xr-x  2 rowong  2018_january   4.0K Sep  9 18:29 [1m[36m.[39;49m[0m
+drwxr-xr-x  6 rowong  2018_january   4.0K Sep  9 18:25 [1m[36m..[39;49m[0m
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swh
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swi
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swj
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swk
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swl
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swm
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swn
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swo
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swp
+-rwxr-xr-x  1 rowong  2018_january     1B Sep  9 18:25 [31m01[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:57 [31m02[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:57 [31m03[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:57 [31m04[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:57 [31m05[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:57 [31m06[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:57 [31m07[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:57 [31m08[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:57 [31m09[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:57 [31m10[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:57 [31m11[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:57 [31m12[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:57 [31m13[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:57 [31m14[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:57 [31m15[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccat 02[?1l>[?2004l
+]2;cat 02]1;cat[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccat 03[?1l>[?2004l
+]2;cat 03]1;cat[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hcat 032l     ;. ../std_script.sh[18Dls                [16D. ../std_script.sh[?1l>[?2004l
+]2;. ../std_script.sh]1;.01
+02
+03
+04
+05
+06
+07
+08
+09
+10
+11
+12
+13
+14
+15
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h. ../std_script.sh[18Dcat 03            [12D. ../std_script.sh[?1l>[?2004l
+]2;. ../std_script.sh]1;.01
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"01" 1L, 1C[?2004l
+"01" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l02
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"02" 0L, 0C[?2004l
+"02" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l03
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"03" 0L, 0C[?2004l
+"03" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l04
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"04" 0L, 0C[?2004l
+"04" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l05
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"05" 0L, 0C[?2004l
+"05" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l06
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"06" 0L, 0C[?2004l
+"06" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l07
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"07" 0L, 0C[?2004l
+"07" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l08
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"08" 0L, 0C[?2004l
+"08" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l09
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"09" 0L, 0C[?2004l
+"09" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l10
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"10" 0L, 0C[?2004l
+"10" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l11
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"11" 0L, 0C[?2004l
+"11" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l12
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"12" 0L, 0C[?2004l
+"12" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l13
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"13" 0L, 0C[?2004l
+"13" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l14
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"14" 0L, 0C[?2004l
+"14" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l15
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"15" 0L, 0C[?2004l
+"15" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccat *01 02 03 04 05 06 07 08 09 10 11 12 13 14 15 [?1l>[?2004l
+]2;cat 01 02 03 04 05 06 07 08 09 10 11 12 13 14 15]1;cat# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    01                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/09/09 18:30:18 by rowong            #+#    #+#              #
+#    Updated: 2018/09/09 18:30:18 by rowong           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    02                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/09/09 18:30:18 by rowong            #+#    #+#              #
+#    Updated: 2018/09/09 18:30:18 by rowong           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    03                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/09/09 18:30:18 by rowong            #+#    #+#              #
+#    Updated: 2018/09/09 18:30:18 by rowong           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    04                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/09/09 18:30:18 by rowong            #+#    #+#              #
+#    Updated: 2018/09/09 18:30:18 by rowong           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    05                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/09/09 18:30:18 by rowong            #+#    #+#              #
+#    Updated: 2018/09/09 18:30:18 by rowong           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    06                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/09/09 18:30:18 by rowong            #+#    #+#              #
+#    Updated: 2018/09/09 18:30:18 by rowong           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    07                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/09/09 18:30:19 by rowong            #+#    #+#              #
+#    Updated: 2018/09/09 18:30:19 by rowong           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    08                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/09/09 18:30:19 by rowong            #+#    #+#              #
+#    Updated: 2018/09/09 18:30:19 by rowong           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    09                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/09/09 18:30:19 by rowong            #+#    #+#              #
+#    Updated: 2018/09/09 18:30:19 by rowong           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    10                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/09/09 18:30:19 by rowong            #+#    #+#              #
+#    Updated: 2018/09/09 18:30:19 by rowong           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    11                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/09/09 18:30:19 by rowong            #+#    #+#              #
+#    Updated: 2018/09/09 18:30:19 by rowong           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    12                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/09/09 18:30:19 by rowong            #+#    #+#              #
+#    Updated: 2018/09/09 18:30:19 by rowong           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    13                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/09/09 18:30:19 by rowong            #+#    #+#              #
+#    Updated: 2018/09/09 18:30:19 by rowong           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    14                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/09/09 18:30:19 by rowong            #+#    #+#              #
+#    Updated: 2018/09/09 18:30:19 by rowong           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    15                                                 :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2018/09/09 18:30:19 by rowong            #+#    #+#              #
+#    Updated: 2018/09/09 18:30:19 by rowong           ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hq : l[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 118
+drwxr-xr-x  2 rowong  2018_january   4.0K Sep  9 18:30 [1m[36m.[39;49m[0m
+drwxr-xr-x  6 rowong  2018_january   4.0K Sep  9 18:25 [1m[36m..[39;49m[0m
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swh
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swi
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swj
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swk
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swl
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swm
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swn
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swo
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swp
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m01[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m02[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m03[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m04[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m05[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m06[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m07[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m08[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m09[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m10[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m11[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m12[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m13[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m14[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m15[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 118
+drwxr-xr-x  2 rowong  2018_january   4.0K Sep  9 18:30 [1m[36m.[39;49m[0m
+drwxr-xr-x  6 rowong  2018_january   4.0K Sep  9 18:25 [1m[36m..[39;49m[0m
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swh
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swi
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swj
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swk
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swl
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swm
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swn
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swo
+-rw-------  1 rowong  2018_january   4.0K Sep  9 18:29 .swp
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m01[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m02[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m03[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m04[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m05[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m06[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m07[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m08[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m09[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m10[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m11[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m12[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m13[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m14[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m15[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hrrm .*[?1l>[?2004l
+]2;rm .*]1;rm[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/network]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/network[0m[27m[24m[J[01;32m➜  [36mnetwork[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd ..[?1l>[?2004l
+]2;cd ..]1;cd[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;..space/my_init]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init[0m[27m[24m[J[01;32m➜  [36mmy_init[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 3066
+drwxr-xr-x   6 rowong  2018_january   4.0K Sep  9 18:25 [1m[36m.[39;49m[0m
+drwxr-xr-x@ 12 rowong  2018_january   4.0K Sep  9 16:53 [1m[36m..[39;49m[0m
+-rw-r--r--   1 rowong  2018_january   4.0K Sep  9 16:54 ._init.en.pdf
+drwxr-xr-x   6 rowong  2018_january   4.0K Sep  9 18:30 [1m[36m.git[39;49m[0m
+-rw-r--r--   1 rowong  2018_january     6B Sep  9 16:56 .gitignore
+-rw-r--r--   1 rowong  2018_january   123K Sep  9 18:30 .nfs.20051027.5276
+-rw-r--r--@  1 rowong  2018_january   1.3M Sep  9 16:53 init.en.pdf
+-rwxr-xr-x   1 rowong  2018_january   140B Sep  9 17:57 [31mmy_script.sh[39;49m[0m
+drwxr-xr-x   2 rowong  2018_january   4.0K Sep  9 18:30 [1m[36mnetwork[39;49m[0m
+drwxr-xr-x   2 rowong  2018_january   4.0K Sep  9 17:58 [1m[36mscripts[39;49m[0m
+-rw-r--r--   1 rowong  2018_january    75B Sep  9 18:30 std_script.sh
+drwxr-xr-x   2 rowong  2018_january   4.0K Sep  9 17:57 [1m[36msystem[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;..space/my_init]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init[0m[27m[24m[J[01;32m➜  [36mmy_init[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd scripts[1m/[0m[0m [?1l>[?2004l
+]2;cd scripts]1;cd[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/scripts]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 16
+drwxr-xr-x  2 rowong  2018_january   4.0K Sep  9 17:58 [1m[36m.[39;49m[0m
+drwxr-xr-x  6 rowong  2018_january   4.0K Sep  9 18:25 [1m[36m..[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:58 [31m00[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:58 [31m01[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:58 [31m02[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:58 [31m03[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:58 [31m04[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january     0B Sep  9 17:58 [31m05[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/scripts]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004h.. ../std_script.sh[1m [0m[0m [?1l>[?2004l
+]2;. ../std_script.sh]1;.00
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"00" 0L, 0C[?2004l
+"00" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l01
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"01" 0L, 0C[?2004l
+"01" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l02
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"02" 0L, 0C[?2004l
+"02" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l03
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"03" 0L, 0C[?2004l
+"03" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l04
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"04" 0L, 0C[?2004l
+"04" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l05
+[?2004h[?1049h[?1h=[?2004h[1;43r[?12;25h[?12l[?25h[27m[m[H[2J[?25l[43;1H"05" 0L, 0C[?2004l
+"05" 13L, 893C written
+[?2004l[?1l>[?12l[?25h[?1049l[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/scripts]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hl[?1l>[?2004l
+]2;ls -G -lah]1;ltotal 28
+drwxr-xr-x  2 rowong  2018_january   4.0K Sep  9 18:30 [1m[36m.[39;49m[0m
+drwxr-xr-x  6 rowong  2018_january   4.0K Sep  9 18:25 [1m[36m..[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m00[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m01[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m02[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m03[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m04[39;49m[0m
+-rwxr-xr-x  1 rowong  2018_january   893B Sep  9 18:30 [31m05[39;49m[0m
+[1m[7m%[27m[1m[0m                                                                                                                                 ]2;rowong@e1z3r2p2]1;.._init/scripts]7;file://e1z3r2p2.42.us.org/nfs/2018/r/rowong/42workspace/my_init/scripts[0m[27m[24m[J[01;32m➜  [36mscripts[00m [01;34mgit:([31mmaster[34m) [33m✗[00m [K[?1h=[?2004hccd ..[1m/[0m[0m/
+[J[1;31mnetwork[0m/  [J[1;31mscripts[0m/  [J[1;31msystem[0m/ [J[A[0m[27m[24m[26Ccd ../[Ksystem[1m/[0m
