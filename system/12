@@ -6,8 +6,12 @@
 #    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/09/09 18:31:04 by rowong            #+#    #+#              #
-#    Updated: 2018/09/09 18:31:04 by rowong           ###   ########.fr        #
+#    Updated: 2018/09/25 21:40:58 by rowong           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
+# Figure out the exact size of each folder of /var
+sudo du -sh /var/*
 
+# -s get us a summary of the drive
+# -h gets us human readable info -> data in KB | MB | GB | etc

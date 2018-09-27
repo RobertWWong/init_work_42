@@ -6,8 +6,9 @@
 #    By: rowong <marvin@42.fr>                      +#+  +:+       +#+         #
 #                                                 +#+#+#+#+#+   +#+            #
 #    Created: 2018/09/09 18:31:04 by rowong            #+#    #+#              #
-#    Updated: 2018/09/09 18:31:04 by rowong           ###   ########.fr        #
+#    Updated: 2018/09/25 21:51:49 by rowong           ###   ########.fr        #
 #                                                                              #
 # **************************************************************************** #
 
-
+# Find the command that kills the background command’s process
+pkill tail
