@@ -11,7 +11,7 @@
 # **************************************************************************** #
 
 # Figure out the exact size of each folder of /var
-sudo du -sh /var/*
+du -sh /var/*
 
 # -s get us a summary of the drive
 # -h gets us human readable info -> data in KB | MB | GB | etc

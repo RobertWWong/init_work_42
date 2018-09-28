@@ -10,5 +10,5 @@
 #                                                                              #
 # **************************************************************************** #
 
+# 3. Identify the MAC address of the Wi-Fi card
 ifconfig en1
-

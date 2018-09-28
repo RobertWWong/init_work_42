@@ -11,5 +11,6 @@
 # **************************************************************************** #
 
 # Find our RSA keys
-~/.ssh/authorized_keys
+# Deduction: This is where you would store the public keys of allowed entities.
 
+~/.ssh/authorized_keys

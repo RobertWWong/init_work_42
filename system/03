@@ -11,5 +11,5 @@
 # **************************************************************************** #
 
 #To find file to permanently rename system
+# Deduction: wanna change system names? Make your changes in Here
 /etc/hostname
-

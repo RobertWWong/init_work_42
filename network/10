@@ -10,5 +10,7 @@
 #                                                                              #
 # **************************************************************************** #
 
-traceroute slash16.org
+#10. Identify the network devices between your computer and the slash16.org domain
 
+# It's line 3: nat
+traceroute slash16.org

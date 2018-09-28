@@ -10,6 +10,5 @@
 #                                                                              #
 # **************************************************************************** #
 
-# Running things in the backgrounda
-'tail -f /var/log/syslog'&
-
+# Running things in the backgrounds
+tail -f /var/log/syslog &

@@ -10,4 +10,5 @@
 #                                                                              #
 # **************************************************************************** #
 
-ipconfig en0 
+#Identify and display the Ethernet interface characteristics
+ipconfig en0

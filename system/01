@@ -11,5 +11,6 @@
 # **************************************************************************** #
 
 # Here's the debian version on the virtualbox
-/etc/debian_version
+# Deduction: find installed version Here
 
+/etc/debian_version

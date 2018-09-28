@@ -10,5 +10,10 @@
 #                                                                              #
 # **************************************************************************** #
 
-nslookup 10.51.1.81
+#14. What file contains the local DNS entries?
 
+# Deduction: This file will contain our local dns entries
+echo "/etc/hosts"
+
+# https://www.tecmint.com/setup-local-dns-using-etc-hosts-file-in-linux/
+# ls -l /etc/hosts -> no sym link

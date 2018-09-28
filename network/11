@@ -10,5 +10,10 @@
 #                                                                              #
 # **************************************************************************** #
 
-echo "nat (10.90.1.11)";
+# 11. Use the output of the previous command to find the name and IP address of the
+# device that makes the link between you (local network) and the outside world
 
+# Deduction: nat is Network Address Translation (NAT).
+# source : https://whatismyipaddress.com/nat
+
+echo "nat (10.90.1.11)"

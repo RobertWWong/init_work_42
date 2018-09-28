@@ -10,5 +10,7 @@
 #                                                                              #
 # **************************************************************************** #
 
-less /etc/resolv.conf
+#6. Get the complete path of the file that contains the IP address of the DNS server you’re using
+# Deduction: This is where you would find your dns server
 
+less /etc/resolv.conf

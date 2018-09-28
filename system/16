@@ -11,4 +11,6 @@
 # **************************************************************************** #
 
 # Find the service which makes it possible to run specific tasks following a regular schedule
+
+# Deduction: cron can be used to perform task based on a schedule
 cron
